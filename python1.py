@@ -4,4 +4,4 @@ class Daksh():
     def __init__(self):
 
 
-print('hello world times 2 ')
+print('hello world times  ')
